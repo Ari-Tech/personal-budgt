@@ -1,0 +1,7 @@
+{
+  "name": "personal-budgt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
