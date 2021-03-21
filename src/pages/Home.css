@@ -1,0 +1,14 @@
+.main-card {
+    border-radius: 20px;
+    box-shadow: none;
+    --background: #11101f;
+    --color: #efefef;
+}
+
+ion-content {
+    --background: #1d1c34;
+}
+
+.history-section {
+    --color: #fff;
+}

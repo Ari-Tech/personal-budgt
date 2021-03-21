@@ -9,5 +9,6 @@
       "launchShowDuration": 0
     }
   },
+  "linuxAndroidStudioPath":"/home/arindam/.local/android-studio/bin/studio.sh",
   "cordova": {}
 }
