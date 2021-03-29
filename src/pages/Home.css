@@ -5,10 +5,20 @@
     --color: #efefef;
 }
 
+.budget-title {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
 ion-content {
     --background: #1d1c34;
 }
 
 .history-section {
     --color: #fff;
+}
+
+.button-holder {
+    text-align: center;
 }
